@@ -1,0 +1,5 @@
+venv/
+*.pyc
+*.pyo
+local_settings.py
+**/migrations/
